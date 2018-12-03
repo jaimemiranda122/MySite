@@ -305,6 +305,13 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   color: #fff;
   
 }
+.button {
+    background-color: red; /* Green */
+    border: yellow;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+}
 /* Contact */
 .main-links{
 
