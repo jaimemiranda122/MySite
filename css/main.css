@@ -309,11 +309,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
     text-align: center;
     display: inline-block;
 }
-.dresume:hover { background:#eee;}
-/* Contact */
-.main-links{
 
-}
 .main-links ul{
   list-style: none outside none;
   margin: 0;
