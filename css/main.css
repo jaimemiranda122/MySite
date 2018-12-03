@@ -305,13 +305,11 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   color: #fff;
   
 }
-.button {
-    background-color: red; /* Green */
-    border: yellow;
+.dresume {
     text-align: center;
     display: inline-block;
-    font-size: 20px;
 }
+.dresume:hover { background:#eee;}
 /* Contact */
 .main-links{
 
